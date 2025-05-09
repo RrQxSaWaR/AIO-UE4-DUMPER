@@ -1,5 +1,7 @@
 # Android Unreal Engine 4 Dumper / UE4 Dumper
-# i have updated this and working very great
+# i have updated this and working very great 
+
+# and also i have added new system to add your offset and make fully sdk.
 
 Generate sdk and functions script for unreal engine 4 games on android.
 
