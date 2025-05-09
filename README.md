@@ -3,6 +3,10 @@
 
 # and also i have added new system to add your offset and make fully sdk.
 
+
+
+support all - aide, android studio etc....
+
 Generate sdk and functions script for unreal engine 4 games on android.
 
 The dumper is based on [UE4Dumper-4.25](https://github.com/guttir14/UnrealDumper-4.25)
