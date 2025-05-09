@@ -1,9 +1,14 @@
-Android Unreal Engine 4 Dumper / UE4 Dumper
+Android Unreal Engine 4 Dumper
+
+UE4 Dumper
 Generate sdk and functions script for unreal engine 4 games on android.
 
 The dumper is based on UE4Dumper-4.25 project.
 
+I HAVE MADE LOTS OF CHANGES IN THESE AND NOW THIS IS WORKING VERY GOOD.
+
 Features
+
 Supported ABI ARM64, ARM, x86 and x86_64
 Can be compiled as executable for external and as library for internal use
 Dump UE4 classes, structs, enums and functions
