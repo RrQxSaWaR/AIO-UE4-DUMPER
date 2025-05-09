@@ -1,4 +1,5 @@
 # Android Unreal Engine 4 Dumper / UE4 Dumper
+# i have updated this and working very great
 
 Generate sdk and functions script for unreal engine 4 games on android.
 
@@ -110,8 +111,4 @@ You need to have make installed on your OS and an ndk (I used ndk v25), then sim
 <br />
 <br />
 
-## Credits & Thanks
 
-* [UE4Dumper-4.25](https://github.com/guttir14/UnrealDumper-4.25)
-
-* [Il2cppDumper](https://github.com/Perfare/Il2CppDumper/blob/master/README.md)
